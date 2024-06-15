@@ -1,4 +1,4 @@
-package com.example.JSnote.entites;
+package com.example.JSnote.entities;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;

@@ -5,7 +5,7 @@ import com.example.JSnote.mappers.UserMapper;
 import com.example.JSnote.dtos.CredentialsDto;
 import com.example.JSnote.dtos.SignUpDto;
 import com.example.JSnote.dtos.UserDto;
-import com.example.JSnote.entites.User;
+import com.example.JSnote.entities.User;
 import com.example.JSnote.exceptions.AppException;
 import com.example.JSnote.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;

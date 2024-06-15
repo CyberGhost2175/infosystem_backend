@@ -2,7 +2,7 @@ package com.example.JSnote.mappers;
 
 import com.example.JSnote.dtos.SignUpDto;
 import com.example.JSnote.dtos.UserDto;
-import com.example.JSnote.entites.User;
+import com.example.JSnote.entities.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
 

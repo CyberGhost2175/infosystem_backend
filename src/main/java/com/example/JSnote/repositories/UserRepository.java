@@ -1,6 +1,6 @@
 package com.example.JSnote.repositories;
 
-import com.example.JSnote.entites.User;
+import com.example.JSnote.entities.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

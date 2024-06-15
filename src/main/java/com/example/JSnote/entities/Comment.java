@@ -1,7 +1,6 @@
-package com.example.JSnote.entites;
+package com.example.JSnote.entities;
 
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.Size;
 import lombok.AllArgsConstructor;

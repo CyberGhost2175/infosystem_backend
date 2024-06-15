@@ -1,7 +1,7 @@
 package com.example.JSnote.services;
 
 import com.example.JSnote.dtos.CommentDto;
-import com.example.JSnote.entites.Comment;
+import com.example.JSnote.entities.Comment;
 
 import java.util.List;
 import java.util.Optional;
@@ -10,11 +10,8 @@ import com.example.JSnote.repositories.ArticleRepository;
 import com.example.JSnote.repositories.CommentRepository;
 import com.example.JSnote.repositories.UserRepository;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
-import java.util.Optional;
 import java.util.stream.Collectors;
 @RequiredArgsConstructor
 @Service
